@@ -117,4 +117,3 @@ nome = random.choice(a, d)
 print(nome)
 
 
-
